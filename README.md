@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Hatsuk1/Hatsuk1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an Information Technology student with a growing passion for exploring the world of technology. As someone new to web development, I’m currently learning the fundamentals and building my skills step by step.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+🎓 IT student eager to learn and grow<br/>
+🌐 Beginner in web development<br/>
+🛠️ Exploring different tools, languages, and frameworks<br/>
+🤔 Curious about how things work behind the scenes<br/>
+📚 My Journey
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I document my learning journey, share my projects, and track my progress as I continue improving my skills.
+
+## 🤝 Let’s Connect
+
+I’m always open to learning new ideas, collaborating with others, and exploring different areas of technology that help me grow as a developer and problem solver.
